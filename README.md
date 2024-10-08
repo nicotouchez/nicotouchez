@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicotouchez" alt="nicotouchez" /></a> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
+- 👯 I’m looking to collaborate on **Front - End Projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **Javascript**
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **HTML/CSS**
 
 - 📫 How to reach me **lui.santoslourenco@gmail.com**
 
